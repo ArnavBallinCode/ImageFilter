@@ -1,8 +1,3 @@
-### Repository Name
-**BMPImageFilter**
-
-### README.md
-```markdown
 # BMPImageFilter
 
 This project is a simple command-line tool that applies various filters to BMP image files. The filters include grayscale, sepia, reflection, and blur. It is implemented in C and uses the BMP file format.
@@ -76,4 +71,3 @@ This project is licensed under the MIT License.
    ```bash
    git push origin main
    ```
-
